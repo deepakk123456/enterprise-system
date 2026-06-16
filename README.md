@@ -3,7 +3,7 @@
 Welcome to the central control infrastructure repository for **Deepak Kainthola** — aspiring AI/ML Engineer, Data Scientist, and Backend Architect. This repository deploys a production-grade analytics dashboard engineered with high-class utility tracking, dynamic rendering engines, and an integrated fault-tolerant document framework.
 
 ## 🌐 Live System Link
-👉 **[CLICK HERE TO LAUNCH THE INTERACTIVE DASHBOARD](https://deepak123456.github.io/portfolio/)** *(Replace with your actual GitHub Pages URL)*
+👉 **[CLICK HERE TO LAUNCH THE INTERACTIVE DASHBOARD](https://deepak123456.github.io/enterprise-system/)
 
 ---
 
